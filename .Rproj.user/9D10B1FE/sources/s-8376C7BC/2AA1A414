@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581334275509.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "883594901",
+    "id" : "2AA1A414",
+    "lastKnownWriteTime" : 1581334303,
+    "last_content_update" : 1581334303128,
+    "path" : "~/Documents/Ubiqum/RStudioProjects/GitTutorial/Untitled.r",
+    "project_path" : "Untitled.r",
+    "properties" : {
+        "cursorPosition" : "0,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
